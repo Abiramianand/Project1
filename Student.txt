@@ -3,3 +3,4 @@ EEE
 ECE
 CSE
 CHEMICAL
+PetroChemical
